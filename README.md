@@ -311,30 +311,30 @@ If a problem is too easy to solve, we'll mark it as **straightforward** in order
 
 #UNSOLVED
 
-[11.1.4](./C11-Hash-Tables/11.1.md#exercises-111-4)
-[11.3.5](./C11-Hash-Tables/11.3.md#exercises-113-5)
-[11.3.6](./C11-Hash-Tables/11.3.md#exercises-113-6)
-[11.5.1](./C11-Hash-Tables/11.5.md#exercises-115-1)
+[11.1.4](./C11-Hash-Tables/11.1.md#exercises-111-4)  
+[11.3.5](./C11-Hash-Tables/11.3.md#exercises-113-5)  
+[11.3.6](./C11-Hash-Tables/11.3.md#exercises-113-6)  
+[11.5.1](./C11-Hash-Tables/11.5.md#exercises-115-1)  
 
-[24.4.4](./C24-Single-Source-Shortest-Paths/24.4.md#exercises-244-4)
-[24.4.9](./C24-Single-Source-Shortest-Paths/24.4.md#exercises-244-9)
-[24.4.11](./C24-Single-Source-Shortest-Paths/24.4.md#exercises-244-11)
-[24.4.12](./C24-Single-Source-Shortest-Paths/24.4.md#exercises-244-12)
+[24.4.4](./C24-Single-Source-Shortest-Paths/24.4.md#exercises-244-4)  
+[24.4.9](./C24-Single-Source-Shortest-Paths/24.4.md#exercises-244-9)  
+[24.4.11](./C24-Single-Source-Shortest-Paths/24.4.md#exercises-244-11)  
+[24.4.12](./C24-Single-Source-Shortest-Paths/24.4.md#exercises-244-12)  
 
-[25.1.4](./C25-All-Pairs-Shortest-Paths/25.1.md#exercises-251-4)
-[25.1.5](./C25-All-Pairs-Shortest-Paths/25.1.md#exercises-251-5)
-[25.2.3](./C25-All-Pairs-Shortest-Paths/25.2.md#exercises-252-3)
-[25.2.9](./C25-All-Pairs-Shortest-Paths/25.2.md#exercises-252-9)
+[25.1.4](./C25-All-Pairs-Shortest-Paths/25.1.md#exercises-251-4)  
+[25.1.5](./C25-All-Pairs-Shortest-Paths/25.1.md#exercises-251-5)  
+[25.2.3](./C25-All-Pairs-Shortest-Paths/25.2.md#exercises-252-3)  
+[25.2.9](./C25-All-Pairs-Shortest-Paths/25.2.md#exercises-252-9)  
 
-[31.1.11](./C31-Number-Theoretic-Algorithms/31.1.md#exercises-311-11)
-[31.2.7](./C31-Number-Theoretic-Algorithms/31.2.md#exercises-312-7)
-[31.2.9](./C31-Number-Theoretic-Algorithms/31.2.md#exercises-312-9)
+[31.1.11](./C31-Number-Theoretic-Algorithms/31.1.md#exercises-311-11)  
+[31.2.7](./C31-Number-Theoretic-Algorithms/31.2.md#exercises-312-7)  
+[31.2.9](./C31-Number-Theoretic-Algorithms/31.2.md#exercises-312-9)  
 
-[32.2.4](./C32-String-Matching/32.2.md#exercises-322-4)
-[32.3.4](./C32-String-Matching/32.3.md#exercises-323-4)
-[32.4.6](./C32-String-Matching/32.4.md#exercises-324-6)
+[32.2.4](./C32-String-Matching/32.2.md#exercises-322-4)  
+[32.3.4](./C32-String-Matching/32.3.md#exercises-323-4)   
+[32.4.6](./C32-String-Matching/32.4.md#exercises-324-6)  
 
-[33.1.8](./C33-Computational-Geometry/33.1.md#exercises-331-8)
+[33.1.8](./C33-Computational-Geometry/33.1.md#exercises-331-8)  
 
 
 ***

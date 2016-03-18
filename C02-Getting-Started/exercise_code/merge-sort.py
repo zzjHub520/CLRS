@@ -27,6 +27,6 @@ def mergesort(items, p, r):
         merge(items, p, q, r)
 
 
-items = [4,3,2,1,17]
+items = [3,9,26,41,38,49,52,57]
 mergesort(items, 0, len(items)-1)
 print items
