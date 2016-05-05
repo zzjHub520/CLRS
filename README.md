@@ -330,7 +330,7 @@ If a problem is too easy to solve, we'll mark it as **straightforward** in order
 [31.2.7](./C31-Number-Theoretic-Algorithms/31.2.md#exercises-312-7)  
 [31.2.9](./C31-Number-Theoretic-Algorithms/31.2.md#exercises-312-9)  
 
-[32.2.4](./C32-String-Matching/32.2.md#exercises-322-4)  
+[32.2.4](./C32-String-Matching/32.2.md#exercises-322-4)   
 [32.3.4](./C32-String-Matching/32.3.md#exercises-323-4)   
 [32.4.6](./C32-String-Matching/32.4.md#exercises-324-6)  
 
